@@ -46,8 +46,8 @@ GROUP BY item_purchased
 ORDER BY discount_applied DESC
 LIMIT 5;
 
--- Segment customers into New, Returning, and Loyal based on the total number of previous purchases and show the count for each segment.
--- Segmente os clientes em Novos, Recorrentes e Fiéis com base no número total de compras anteriores e mostre a contagem de cada segmento.
+-- Segmenting customers into New, Returning, and Loyal based on the total number of previous purchases and show the count for each segment.
+-- Segmentando os clientes em Novos, Recorrentes e Fiéis com base no número total de compras anteriores e mostre a contagem de cada segmento.
 SELECT 
     CASE 
         WHEN previous_purchases = 1 THEN 'New'
