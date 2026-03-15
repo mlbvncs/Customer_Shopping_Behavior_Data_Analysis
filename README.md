@@ -5,6 +5,13 @@ A leading retail company wants to better understand its customers' purchasing be
 - Data Preparation and Modeling (Python): Clean and transform the raw dataset for analysis;
 - Data Analysis (SQL): Organize the data into a structured format, simulate business transactions, and execute queries to extract insights into customer segments, loyalty, and purchase drivers; - Visualization and Insights (Power BI): Build an interactive dashboard that highlights important patterns and trends, enabling stakeholders to make data-driven decisions;
 - Reporting and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates the insights and actionable recommendations to stakeholders.
+### Recommended order for reading/consulting the folders:
+- 1. data/raw;
+- 2. notebooks;
+- 3. data/processed;
+- 4. sql;
+- 5. powerbi;
+- 6. analysis;
 # Português (Brasil)
 ### Problema de Negócio: 
 Uma empresa líder no setor de varejo deseja entender melhor o comportamento de compra de seus clientes para aumentar as vendas, a satisfação do consumidor e a fidelidade a longo prazo. A equipe de gestão observou mudanças nos padrões de compra em diferentes perfis demográficos, categorias de produtos e canais de vendas (online vs. offline).Eles estão particularmente interessados em descobrir quais fatores — como descontos, avaliações, sazonalidade ou preferências de pagamento — impulsionam as decisões dos consumidores e as compras recorrentes. Você tem a tarefa de analisar o conjunto de dados de comportamento do consumidor da empresa para responder à seguinte pergunta de negócio central: "Como a empresa pode aproveitar os dados de compras dos consumidores para identificar tendências, melhorar o engajamento do cliente e otimizar as estratégias de marketing e de produtos?".
@@ -13,3 +20,10 @@ Uma empresa líder no setor de varejo deseja entender melhor o comportamento de 
 - Análise de Dados (SQL): Organizar os dados em um formato estruturado, simular transações comerciais e executar consultas para extrair insights sobre segmentos de clientes, fidelidade e motivadores de compra;
 - Visualização e Insights (Power BI): Construir um dashboard interativo que destaque padrões e tendências importantes, permitindo que as partes interessadas tomem decisões baseadas em dados;
 - Relatório e Apresentação: Escrever um relatório de projeto claro resumindo suas principais descobertas e recomendações de negócios. Preparar uma apresentação que comunique visualmente os insights e recomendações acionáveis para os stakeholders.
+### Ordem aconselhada de leitura/consulta das pastas:
+- 1. data/raw;
+- 2. notebooks;
+- 3. data/processed;
+- 4. sql;
+- 5. powerbi;
+- 6. analysis;
